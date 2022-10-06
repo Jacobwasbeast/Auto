@@ -1,1 +1,2 @@
-javascript:fetch(`https://raw.githubusercontent.com/Jacobwasbeast/Auto/main/disable.js`).then(data=>{data.text().then(text=>{eval(text)})});
+javascript:(function () {var a = document.createElement('script');a.src = 'https://raw.githubusercontent.com/Jacobwasbeast/Auto/main/disable.js';document.body.appendChild(a);}())
+
